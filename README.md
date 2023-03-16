@@ -1,3 +1,9 @@
+This is a Pokedex site built with React by GPT-4. Read more about how this was created at https://gabrieluribe.me
+
+<img width="1022" alt="Screenshot 2023-03-16 at 6 35 07 AM" src="https://user-images.githubusercontent.com/4742275/225591156-caf4b925-042f-404e-9836-88d6a56e458c.png">
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
