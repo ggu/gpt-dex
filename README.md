@@ -1,4 +1,4 @@
-This is a Pokedex site built with React by GPT-4. Read more about how this was created at https://gabrieluribe.me
+This is a Pokedex site built with React by GPT-4. Read more about how this was created at https://gabrieluribe.me/blog/first-impressions-of-gpt-4
 
 <img width="1022" alt="Screenshot 2023-03-16 at 6 35 07 AM" src="https://user-images.githubusercontent.com/4742275/225591156-caf4b925-042f-404e-9836-88d6a56e458c.png">
 
